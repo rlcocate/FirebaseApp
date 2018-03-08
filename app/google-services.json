@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816743785007",
+    "firebase_url": "https://nossafirma-e1635.firebaseio.com",
+    "project_id": "nossafirma-e1635",
+    "storage_bucket": "nossafirma-e1635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816743785007:android:91abc8859f2f2367",
+        "android_client_info": {
+          "package_name": "com.nossafirma.firebaseapp.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816743785007-lfa24t24bhs2e5bl4njhu8b56shgecfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nossafirma.firebaseapp.firebaseapp",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "816743785007-ngb9onpdcuj7dnuascctc6kpq937lsv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfziNDM1aN2vlUE4az97dKOygJa9u1H4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816743785007-ngb9onpdcuj7dnuascctc6kpq937lsv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
